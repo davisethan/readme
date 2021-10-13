@@ -1,3 +1,3 @@
 # test
-**Author:** Ethan Davis
+**Author:** Ethan Davis\\
 **Description:** Test
