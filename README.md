@@ -2,19 +2,22 @@
 **Author:** Ethan Davis\
 **Description:** Test
 
-# Project Bloom Filter
+# weather
 
-**Author:** Ethan Davis\
-**Description:** Build a bloom filter
-
-## Execute
+## client
 ```bash
-# Ready Python virtual environment
-python3 -m venv env
-source env/bin/activate
-python -m pip install -r requirements.txt
-# Run Python bloom filter code
-python bloom_filter.py
-# Exit Python virtual environment
-deactivate
+# Install packages
+npm install
+# Start frontend server
+npm start
 ```
+
+## server
+```bash
+# Install packages
+npm install
+# Start backend server
+node server.js
+```
+
+### Request current weather by city name
